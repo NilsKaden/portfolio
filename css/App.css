@@ -1,0 +1,72 @@
+.portrait {
+  margin: auto;
+  max-width: 95%;
+  max-height: 98%;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+h2, h3 {
+  font-weight: 400;
+}
+
+h3 {
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 200;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: 350;
+  line-height: 1.2em;
+  margin: auto;
+  max-width: 95%;
+}
+
+a {
+  font-size: 1em;
+  font-weight: 350;
+  margin: auto;
+  max-width: 95%;
+}
+
+body {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #fcf4e8 ;
+  max-width: 95%;
+  margin: auto;
+  color: #313131;
+}
+
+
+.pure-menu {
+  max-width: 100%;
+}
+
+.screenshot {
+  margin:auto;
+  max-width: 95%;
+  max-height: 98%;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Contact a {
+  color: #313131;
+  font-size: 1em;
+  margin-left:1em;
+  margin-right:1em;
+  height: auto;
+}
+;
+

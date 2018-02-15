@@ -1,5 +1,4 @@
 import React from 'react';
-import {render} from 'react-dom';
 import ProgressBar from './ProgressBar';
 
 class AboutText extends React.Component{
@@ -7,8 +6,8 @@ class AboutText extends React.Component{
 		return(
 			<div className="AboutText">
 				<h1>Hi, I'm Nils!</h1>
-				<p>I started programming at the age of 15 and haven't stopped since!</p>
-				<p>I'm currently living in Lüneburg, Germany.</p>
+				<h2>I started programming at the age of 15 and haven't stopped since!</h2>
+				<h2>I'm currently living in Lüneburg, Germany.</h2>
 
 				<h2>My Skills include:</h2>
 				<ProgressBar />

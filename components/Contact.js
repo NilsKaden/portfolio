@@ -1,6 +1,6 @@
 import React from 'react';
-import {render} from 'react-dom';
 import Header from './Header';
+import Footer from './Footer';
 
 class Contact extends React.Component{
 render() {
@@ -29,9 +29,10 @@ render() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
     )
   }
 }
 
-export default Contact;Y
+export default Contact;
